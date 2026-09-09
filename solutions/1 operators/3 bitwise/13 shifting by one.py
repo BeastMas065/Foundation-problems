@@ -1,0 +1,5 @@
+n = int(input("Enter a number: "))
+print(f'{n} shifted left by 1 is {n<<1}')
+print(f'{n} multiplied by 2 is {n*2}')
+print(f'{n} shifted right by 1 is {n>>1}')
+print(f'{n} divided by 2 is {n//2}')
